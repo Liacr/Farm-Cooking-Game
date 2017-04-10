@@ -1,4 +1,3 @@
-``` ruby 
 # Farm-Cooking-Game
 
  > Basic mobile game about farming and cooking (like farmville2 and overcooked) :older_woman:
