@@ -5,14 +5,29 @@ using UnityEngine;
 public class PlantaControle : MonoBehaviour {
 
 	public Sprite semPlantaObj;
-	public Sprite florBrotinho;
-	public Sprite florFinal;
+
+	public Sprite repolho;
+	public Sprite repolho2;
 	//public Sprite terraComAgua;
+
+	public Sprite batata;
+	public Sprite batata2;
+
+	public Sprite cebola;
+	public Sprite cebola2;
+
+	public Sprite cenoura;
+	public Sprite cenoura2;
+
+	public Sprite tomate;
+	public Sprite tomate2;
 
 	public float tempoCrescimento = 0;
 
 	public Transform lote;
 	public bool comAgua = false;
+
+	public string sementeAtual = "";
 
 	void Start () 
 	{
@@ -20,26 +35,56 @@ public class PlantaControle : MonoBehaviour {
 	}
 
 	void Update () 
-	{	//Checa se está na florBrotinho, aumenta o tempo de crescimento, ao ultrapassar 3s a sprite muda.
-		//Acredito que isso de checar a cada frame não pode, como proceder? *É o tempo que vai levar p crescer
-		if (GetComponent<SpriteRenderer> ().sprite == florBrotinho)
+	{	
+	
+		//Checa se está no sprite inicial de cada planta (brotinho), aumenta o tempo de crescimento, ao ultrapassar 5s a sprite muda.
+		
+		if (sementeAtual != "")
 		{
 			tempoCrescimento += Time.deltaTime;
 		}
 
-		if (tempoCrescimento > 5f)
+		//Checa se a tem água se não tiver a sprite volta a ficar nula
+		if ((tempoCrescimento > 5f) && (comAgua == false)) //sem água
 		{
-			if (comAgua == true) {
-				GetComponent<SpriteRenderer> ().sprite = florFinal;
-			} 
-			else 
-			{
-				tempoCrescimento = 0;
-				GetComponent<SpriteRenderer> ().sprite = semPlantaObj;
-			}
+			sementeAtual = "";
+			tempoCrescimento = 0; //volta para zero
+			GetComponent<SpriteRenderer> ().sprite = semPlantaObj; //brotinho morre
 		}
 
-		//Checa se a tem água se não tiver a sprite volta a ficar nula
+		if ((tempoCrescimento > 5f) && (comAgua == true)) //COM ÁGUA
+		{
+			//----------BROTINHOS JÁ FORAM REGADOS x3-------------
+		//----------------------------PLANTAS CRESCIDAS AQUI-------------------------------------
+			if (sementeAtual == "repolho") 
+			{
+				GetComponent<SpriteRenderer>().sprite = repolho2;
+			}
+
+			if (sementeAtual == "cebola") 
+			{
+				GetComponent<SpriteRenderer>().sprite = cebola2;
+			}
+
+			if (sementeAtual == "tomate") 
+			{
+				GetComponent<SpriteRenderer>().sprite = tomate2;
+			}
+
+			if (sementeAtual == "cenoura") 
+			{
+				GetComponent<SpriteRenderer>().sprite = cenoura2;
+			}
+
+			if (sementeAtual == "batata") 
+			{
+				GetComponent<SpriteRenderer>().sprite = batata2;
+			}
+
+		//----------------------------FIM DAS PLANTAS-------------------------------------
+		
+		}
+			
 	}
 
 	void OnMouseDown() //Se clicar na planta, sprite muda (botei uma sprite null)
@@ -51,13 +96,42 @@ public class PlantaControle : MonoBehaviour {
 			GetComponent<SpriteRenderer>().sprite = semPlantaObj;
 		}
 			
-		if ((GameMaster.currentTool == "Sementinha") && (GetComponent<SpriteRenderer>().sprite == semPlantaObj)) // com a semente e com a sprite null
+		//----------------------------PLANTAR BROTINHOS AQUI----------------------------------
+
+		if ((GameMaster.currentTool == "repolho") && (GetComponent<SpriteRenderer>().sprite == semPlantaObj)) // com a semente e com a sprite null
 		{
-			
-			GetComponent<SpriteRenderer>().sprite = florBrotinho;
+			GetComponent<SpriteRenderer>().sprite = repolho;
+			sementeAtual = "repolho"; //variavel para o que está sendo plantado
 		}
 
-		if ((GameMaster.currentTool == "Regador") && (GetComponent<SpriteRenderer>().sprite == florBrotinho))// com a regador muda a cor pra ciano
+		if ((GameMaster.currentTool == "cebola") && (GetComponent<SpriteRenderer>().sprite == semPlantaObj)) // com a semente e com a sprite null
+		{
+			GetComponent<SpriteRenderer>().sprite = cebola;
+			sementeAtual = "cebola";
+		}
+
+		if ((GameMaster.currentTool == "tomate") && (GetComponent<SpriteRenderer>().sprite == semPlantaObj)) // com a semente e com a sprite null
+		{
+			GetComponent<SpriteRenderer>().sprite = tomate;
+			sementeAtual = "tomate";
+		}
+
+		if ((GameMaster.currentTool == "cenoura") && (GetComponent<SpriteRenderer>().sprite == semPlantaObj)) // com a semente e com a sprite null
+		{
+			GetComponent<SpriteRenderer>().sprite = cenoura;
+			sementeAtual = "cenoura";
+		}
+
+		if ((GameMaster.currentTool == "batata") && (GetComponent<SpriteRenderer>().sprite == semPlantaObj)) // com a semente e com a sprite null
+		{
+			GetComponent<SpriteRenderer>().sprite = batata;
+			sementeAtual = "batata";
+		}
+
+		//-------------------------------FIM DOS BROTINHOS-----------------------------------
+
+		if ((GameMaster.currentTool == "Regador") && (GetComponent<SpriteRenderer>().sprite != semPlantaObj))
+			// com o regador muda a cor pra ciano
 		{
 			
 			lote.GetComponent<SpriteRenderer>().color = new Color (0, 1, 1, 1);

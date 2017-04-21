@@ -1,0 +1,1296 @@
+fileFormatVersion: 2
+guid: d56ebac1e4738964ba2722d06852d486
+timeCreated: 1491962811
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - Stardew Valley - Crops(1)_0
+    21300002: PC Computer - Stardew Valley - Crops(1)_1
+    21300004: PC Computer - Stardew Valley - Crops(1)_2
+    21300006: PC Computer - Stardew Valley - Crops(1)_3
+    21300008: PC Computer - Stardew Valley - Crops(1)_4
+    21300010: PC Computer - Stardew Valley - Crops(1)_5
+    21300012: PC Computer - Stardew Valley - Crops(1)_6
+    21300014: PC Computer - Stardew Valley - Crops(1)_7
+    21300016: PC Computer - Stardew Valley - Crops(1)_8
+    21300018: PC Computer - Stardew Valley - Crops(1)_9
+    21300020: PC Computer - Stardew Valley - Crops(1)_10
+    21300022: PC Computer - Stardew Valley - Crops(1)_11
+    21300024: PC Computer - Stardew Valley - Crops(1)_12
+    21300026: PC Computer - Stardew Valley - Crops(1)_13
+    21300028: PC Computer - Stardew Valley - Crops(1)_14
+    21300030: PC Computer - Stardew Valley - Crops(1)_15
+    21300032: PC Computer - Stardew Valley - Crops(1)_16
+    21300034: PC Computer - Stardew Valley - Crops(1)_17
+    21300036: PC Computer - Stardew Valley - Crops(1)_18
+    21300038: PC Computer - Stardew Valley - Crops(1)_19
+    21300040: PC Computer - Stardew Valley - Crops(1)_20
+    21300042: PC Computer - Stardew Valley - Crops(1)_21
+    21300044: PC Computer - Stardew Valley - Crops(1)_22
+    21300046: PC Computer - Stardew Valley - Crops(1)_23
+    21300048: PC Computer - Stardew Valley - Crops(1)_24
+    21300050: PC Computer - Stardew Valley - Crops(1)_25
+    21300052: PC Computer - Stardew Valley - Crops(1)_26
+    21300054: PC Computer - Stardew Valley - Crops(1)_27
+    21300056: PC Computer - Stardew Valley - Crops(1)_28
+    21300058: PC Computer - Stardew Valley - Crops(1)_29
+    21300060: PC Computer - Stardew Valley - Crops(1)_30
+    21300062: PC Computer - Stardew Valley - Crops(1)_31
+    21300064: PC Computer - Stardew Valley - Crops(1)_32
+    21300066: PC Computer - Stardew Valley - Crops(1)_33
+    21300068: PC Computer - Stardew Valley - Crops(1)_34
+    21300070: PC Computer - Stardew Valley - Crops(1)_35
+    21300072: PC Computer - Stardew Valley - Crops(1)_36
+    21300074: PC Computer - Stardew Valley - Crops(1)_37
+    21300076: PC Computer - Stardew Valley - Crops(1)_38
+    21300078: PC Computer - Stardew Valley - Crops(1)_39
+    21300080: PC Computer - Stardew Valley - Crops(1)_40
+    21300082: PC Computer - Stardew Valley - Crops(1)_41
+    21300084: PC Computer - Stardew Valley - Crops(1)_42
+    21300086: PC Computer - Stardew Valley - Crops(1)_43
+    21300088: PC Computer - Stardew Valley - Crops(1)_44
+    21300090: PC Computer - Stardew Valley - Crops(1)_45
+    21300092: PC Computer - Stardew Valley - Crops(1)_46
+    21300094: PC Computer - Stardew Valley - Crops(1)_47
+    21300096: PC Computer - Stardew Valley - Crops(1)_48
+    21300098: PC Computer - Stardew Valley - Crops(1)_49
+    21300100: PC Computer - Stardew Valley - Crops(1)_50
+    21300102: PC Computer - Stardew Valley - Crops(1)_51
+    21300104: PC Computer - Stardew Valley - Crops(1)_52
+    21300106: PC Computer - Stardew Valley - Crops(1)_53
+    21300108: PC Computer - Stardew Valley - Crops(1)_54
+    21300110: PC Computer - Stardew Valley - Crops(1)_55
+    21300112: PC Computer - Stardew Valley - Crops(1)_56
+    21300114: PC Computer - Stardew Valley - Crops(1)_57
+    21300116: PC Computer - Stardew Valley - Crops(1)_58
+    21300118: PC Computer - Stardew Valley - Crops(1)_59
+    21300120: PC Computer - Stardew Valley - Crops(1)_60
+    21300122: PC Computer - Stardew Valley - Crops(1)_61
+    21300124: PC Computer - Stardew Valley - Crops(1)_62
+    21300126: PC Computer - Stardew Valley - Crops(1)_63
+    21300128: PC Computer - Stardew Valley - Crops(1)_64
+    21300130: PC Computer - Stardew Valley - Crops(1)_65
+    21300132: PC Computer - Stardew Valley - Crops(1)_66
+    21300134: PC Computer - Stardew Valley - Crops(1)_67
+    21300136: PC Computer - Stardew Valley - Crops(1)_68
+    21300138: PC Computer - Stardew Valley - Crops(1)_69
+    21300140: PC Computer - Stardew Valley - Crops(1)_70
+    21300142: PC Computer - Stardew Valley - Crops(1)_71
+    21300144: PC Computer - Stardew Valley - Crops(1)_72
+    21300146: PC Computer - Stardew Valley - Crops(1)_73
+    21300148: PC Computer - Stardew Valley - Crops(1)_74
+    21300150: PC Computer - Stardew Valley - Crops(1)_75
+    21300152: PC Computer - Stardew Valley - Crops(1)_76
+    21300154: PC Computer - Stardew Valley - Crops(1)_77
+    21300156: PC Computer - Stardew Valley - Crops(1)_78
+    21300158: PC Computer - Stardew Valley - Crops(1)_79
+    21300160: PC Computer - Stardew Valley - Crops(1)_80
+    21300162: PC Computer - Stardew Valley - Crops(1)_81
+    21300164: PC Computer - Stardew Valley - Crops(1)_82
+    21300166: PC Computer - Stardew Valley - Crops(1)_83
+    21300168: PC Computer - Stardew Valley - Crops(1)_84
+    21300170: PC Computer - Stardew Valley - Crops(1)_85
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 30
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 489
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 490
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 491
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_3
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 491
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 491
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 490
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 492
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_7
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 492
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 491
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_9
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 555
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 554
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_11
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 554
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 552
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 554
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 554
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_15
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 555
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 555
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 586
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 586
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_19
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 587
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 587
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_21
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 586
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 587
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_23
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 587
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_24
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 587
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_25
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 582
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_26
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 618
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_27
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 617
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 618
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_29
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 616
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_30
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 620
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_31
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 619
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_32
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 619
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 615
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_34
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 585
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_35
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 585
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_36
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 585
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_37
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 587
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_38
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 589
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_39
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 588
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_40
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 587
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_41
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 588
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 460
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_43
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 459
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_44
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 459
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_45
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 459
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_46
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 459
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_47
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 458
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_48
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 459
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_49
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 459
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_50
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 459
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 458
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 427
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_53
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 426
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_54
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 428
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_55
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 427
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_56
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 427
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_57
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 430
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_58
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 430
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_59
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 428
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 523
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_61
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 523
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_62
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 524
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_63
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 524
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 526
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_65
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 526
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_66
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 526
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_67
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 525
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_68
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 524
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_69
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 329
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_70
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 326
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_71
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 330
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_72
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 329
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_73
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 331
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_74
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 329
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_75
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 330
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_76
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 327
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_77
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 425
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_78
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 427
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_79
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 427
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_80
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 425
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_81
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 426
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_82
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 426
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_83
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 426
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_84
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 428
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Stardew Valley - Crops(1)_85
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 428
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
